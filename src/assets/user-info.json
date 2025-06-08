@@ -1,0 +1,133 @@
+{
+    "user":{
+        "overview":[
+            "WEB/APP Solo Developer", 
+            "Education of Python/React",
+            "I am a solo developer and aiming for the life of a digital nomad."
+        ],
+        "infos":[
+        {
+            "item":"Name",
+            "desc":"JW PARK"
+        },
+        {
+            "item":"E-Mail",
+            "desc":"park363@daum.net"
+        },
+        {
+            "item":"Phone",
+            "desc":"010-4576-6690"
+        }
+    ]},
+    "works":[
+        {
+            "title":"Solo Developer",
+            "overview":"WEB / APP Solo Delevloper with React & Python.",
+            "items":[
+                {
+                    "item":"Front",
+                    "desc":"React / Flutter"
+                },
+                {
+                    "item":"Backend",
+                    "desc":"python / Nest / Supebase"
+                },
+                {
+                    "item":"Target",
+                    "desc":"WEB / APP"
+                }
+            ]
+        },
+        {
+            "title":"Education",
+            "overview":"Education Service Of Python to over 4th grade",
+            "items":[
+                {
+                    "item":"Language",
+                    "desc":"Python"
+                },
+                {
+                    "item":"Target",
+                    "desc":"4th grade and over"
+                },
+                {
+                    "item":"Period",
+                    "desc":"2~3 days per week"
+                }
+            ]
+        },
+        {
+            "title":"Product",
+            "overview":"Development Supply Products",
+            "items":[
+                {
+                    "item":"Report Mailing Tool",
+                    "desc":"Automating Customer Excel Reports Using Python, Excel Formulas, and Python Libraries(pandas/bs4/request)"
+                },
+                {
+                    "item":"Dashboard",
+                    "desc":"Providing customized dashboard development using Python and DASH library"
+                }
+            ]
+        }
+    ],
+    "resume":[
+        {
+            "title":"Developer",
+            "overview":"Started as a Java developer in 1998 and worked as a developer at a startup for 5 years",
+            "period":"1998 ~ 2002",
+            "keypoint":"Java Developer, AniChannel Site Main Developer"
+        },
+        {
+            "title":"IT Dept.",
+            "overview":"Joined the corporate IT department in 2002, worked on building and operating corporate IT systems for 16 years",
+            "period":"2002 ~ 2017",
+            "keypoint":"SAP, Groupware, Airline System Construction & Operation "
+        },
+        {
+            "title":"PM",
+            "overview":"In 2018, I left the corporate IT dept. and started working as a PM for RPA-based DT projects.",
+            "period":"2018 ~ 2022",
+            "keypoint":"S Electronics, H Automobile RPA-based DT Project PM"
+        }
+    ],
+    "products":[
+        
+        {
+            "title":"Report Mailing Tool",
+            "overview":"Automate Custom Excel reports and mailings System.",
+            "items":[
+                {
+                    "item":"Use Tech",
+                    "desc":"Python & Excel"
+                },
+                {
+                    "item":"Lib",
+                    "desc":"Pandas/BS4/Request, Excel Formula"
+                },
+                {
+                    "item":"Development Period",
+                    "desc":"Analysis & Design 1~2 weeks, Development 2~4 weeks"
+                }
+            ]
+        },
+        {
+            "title":"Dashboard",
+            "overview":"Custom Dashboard System.",
+            "items":[
+                {
+                    "item":"Use Tech",
+                    "desc":"Python"
+                },
+                {
+                    "item":"Lib",
+                    "desc":"dash"
+                },
+                {
+                    "item":"Development Period",
+                    "desc":"Analysis & Design 2~3 weeks, Development 1~2 month"
+                }
+            ]
+        }
+    ]
+}
