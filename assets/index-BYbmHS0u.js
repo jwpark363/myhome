@@ -72,7 +72,7 @@ Error generating stack: `+e.message+`
 `,qi=zt.div`
     width: ${i=>i.width};
     height: ${i=>i.height};
-    background-image: ${i=>`url("/src/assets/${i.path}")`};
+    background-image: ${i=>`url("https://raw.githubusercontent.com/jwpark363/myhome/refs/heads/master/src/assets/${i.path}")`};
     background-size: cover;
 `,h0=zt(qi)`
     border-radius: 50%;
