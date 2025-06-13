@@ -2,6 +2,7 @@ import AboutMe from "./AboutMe";
 import Contact from "./Contact";
 import Logo from "./Logo";
 import Park from "./Park";
+import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 import Work from "./Work";
 import { Card, Container } from "./components/StyledComponent";
@@ -20,6 +21,9 @@ function App() {
     </Card>
     <Card bgcolor="indigo" id="resume">
       <Resume />
+    </Card>
+    <Card bgcolor="#FE7743" id="portfolio">
+      <Portfolio />
     </Card>
     <Card bgcolor="#3a3a3a" id="contact">
       <Contact />

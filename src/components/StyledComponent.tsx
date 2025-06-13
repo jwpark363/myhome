@@ -29,7 +29,7 @@ export const Title = styled.h1<{color?:string;}>`
 export const Img = styled.div<{path:string;width:string;height:string;}>`
     width: ${props => props.width};
     height: ${props => props.height};
-    background-image: ${props => `url("/src/assets/${props.path}")`};
+    background-image: ${props => `url("https://raw.githubusercontent.com/jwpark363/myhome/refs/heads/master/src/assets/${props.path}")`};
     background-size: cover;
 `;
 export const Avata = styled(Img)`

@@ -29,6 +29,7 @@ export default function Logo(){
         <a href="#aboutme">About Me</a>
         <a href="#work">My Work</a>
         <a href="#resume">Resume</a>
+        <a href="#portfolio">Portfolio</a>
         <a href="#contact">Contact</a>
         <a href="#park">Park In Songdo</a>
       </MenuList>
