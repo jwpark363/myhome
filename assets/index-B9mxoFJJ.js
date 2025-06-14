@@ -152,7 +152,7 @@ Error generating stack: `+e.message+`
     padding: 0px 12px 2px 2px;
     display: flex;
     align-items: center;
-`;function dm(){return M.jsxs(Ne,{children:[M.jsx(la,{children:"My Portfolio"}),M.jsxs(om,{children:[M.jsxs(Zh,{children:[M.jsx(Va,{children:M.jsx("a",{href:"https://jwpark363.github.io/top30coins/",target:"_blank",children:M.jsx(Ri,{path:"portfolio01.png",width:"70px",height:"70px"})})}),M.jsx(Va,{children:"Top30Coins"}),M.jsx(Va,{children:"React + Coin Paprika + Apexchart"})]}),M.jsxs(Zh,{children:[M.jsx(Va,{children:M.jsx(Ri,{path:"portfolio02.png",width:"70px",height:"70px"})}),M.jsx(Va,{children:"Dise Game."}),M.jsx(Va,{children:"React + Animation (working)"})]})]})]})}const hm=Et.div`
+`;function dm(){return M.jsxs(Ne,{children:[M.jsx(la,{children:"My Portfolio"}),M.jsxs(om,{children:[M.jsxs(Zh,{children:[M.jsx(Va,{children:M.jsx("a",{href:"https://jwpark363.github.io/top30coins/",target:"_blank",children:M.jsx(Ri,{path:"portfolio01.png",width:"70px",height:"70px"})})}),M.jsx(Va,{children:"Top30Coins"}),M.jsx(Va,{children:"React + Coin Paprika + Apexchart"})]}),M.jsxs(Zh,{children:[M.jsx(Va,{children:M.jsx("a",{href:"https://jwpark363.github.io/disegame/",target:"_blank",children:M.jsx(Ri,{path:"portfolio02.png",width:"70px",height:"70px"})})}),M.jsx(Va,{children:"Dise Game."}),M.jsx(Va,{children:"React + Animation"})]})]})]})}const hm=Et.div`
     display: grid;
     grid-template-rows: 30px auto;
     height: 350px;
