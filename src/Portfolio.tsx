@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Avata, Img, Title, Wrapper } from "./components/StyledComponent";
+import { Avata, Title, Wrapper } from "./components/StyledComponent";
 
 const Table = styled.div`
     display: flex;
@@ -34,16 +34,24 @@ export default function Portfolio(){
         <Table>
             <Row>
                 <Col><a href="https://jwpark363.github.io/top30coins/" target="_blank">
-                    <Img path="cartoon-songdo01.png" width="60px" height="60px"/>
+                    <Avata path="portfolio01.png" width="70px" height="70px"/>
                 </a></Col>
                 <Col>Top30Coins</Col>
                 <Col>React + Coin Paprika + Apexchart</Col>
             </Row>
             <Row>
-            <Col><Img path="cartoon-songdo01.png" width="60px" height="60px"/>
-            </Col>
+            <Col><a href="https://jwpark363.github.io/modern_todo/" target="_blank">
+                <Avata path="portfolio03.png" width="70px" height="70px"/>
+            </a></Col>
+                <Col>Todo App.</Col>
+                <Col>React + Jotai</Col>
+            </Row>
+            <Row>
+            <Col><a href="https://jwpark363.github.io/disegame/" target="_blank">
+                <Avata path="portfolio02.png" width="70px" height="70px"/>
+            </a></Col>
                 <Col>Dise Game.</Col>
-                <Col>React + Animation(working)</Col>
+                <Col>React + Animation</Col>
             </Row>
         </Table>
         </Wrapper>
